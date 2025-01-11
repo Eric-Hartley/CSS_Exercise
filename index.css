@@ -1,11 +1,25 @@
-.nav-link{
+nav-link {
     color: orange;
     text-decoration: none;
 }
-.main{
+
+main {
     max-width: 600px;
     margin-top: 24px;
     margin-bottom: 24px;
     margin-left: auto;
     margin-right: auto;
+}
+
+section {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    border: 3;
+    border-color: orange;
+    border-style: dotted;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+
 }
